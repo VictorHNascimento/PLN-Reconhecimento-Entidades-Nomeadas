@@ -34,6 +34,7 @@ Este projeto demonstra, na prática, como transformar texto não estruturado em 
 ---
 
 ## 📂 Estrutura do Repositório
+````bash
 📁 projeto-ner-juridico/
 │
 ├── 📁 Dados
@@ -47,8 +48,9 @@ Este projeto demonstra, na prática, como transformar texto não estruturado em 
 │
 ├── app.py
 ├── model_ner.zip (modelo treinado compactado)
+├── requirements.txt
 └── README.md
-
+````
 ---
 
 ## 🛠️ Tecnologias Utilizadas
